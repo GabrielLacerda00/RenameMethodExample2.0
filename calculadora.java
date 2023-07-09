@@ -4,7 +4,7 @@ public class calculadora extends calc{
      soma();
   }
 
-  public static double soma() {
+  public static double sum() {
     return 1.0 + 2.0;
 }
 
